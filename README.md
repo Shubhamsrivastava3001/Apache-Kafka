@@ -1,6 +1,6 @@
 # Middleware
 
-#Kafka Connect
+Kafka Connect
 
 In Order to Make File Source Kafka Connect
 path: /Kafka-home/etc/kafka
